@@ -1,0 +1,11 @@
+com\videoplatform\admin\controller\AuditController.class
+com\videoplatform\admin\config\AdminConfig.class
+com\videoplatform\admin\controller\AdminController.class
+com\videoplatform\admin\mapper\AuditLogMapper.class
+com\videoplatform\admin\service\AuditService.class
+com\videoplatform\admin\service\AdminService.class
+com\videoplatform\admin\AdminApplication.class
+com\videoplatform\admin\mapper\VideoMapper.class
+com\videoplatform\admin\mapper\UserMapper.class
+com\videoplatform\admin\entity\AuditLog.class
+com\videoplatform\admin\dto\AdminStatsDTO.class

@@ -1,0 +1,7 @@
+com\videoplatform\auth\AuthApplication.class
+com\videoplatform\auth\dto\RegisterDTO.class
+com\videoplatform\auth\service\impl\AuthServiceImpl.class
+com\videoplatform\auth\dto\TokenResponse.class
+com\videoplatform\auth\service\AuthService.class
+com\videoplatform\auth\controller\AuthController.class
+com\videoplatform\auth\dto\LoginDTO.class

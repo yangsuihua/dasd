@@ -1,0 +1,13 @@
+com\videoplatform\search\controller\SearchControllerAdvice.class
+com\videoplatform\search\service\impl\SearchServiceImpl.class
+com\videoplatform\search\mapper\VideoMapper.class
+com\videoplatform\search\service\SearchSyncService.class
+com\videoplatform\search\config\ElasticsearchConfig.class
+com\videoplatform\search\config\SearchInitConfig.class
+com\videoplatform\search\mapper\UserMapper.class
+com\videoplatform\search\service\ElasticsearchSearchService.class
+com\videoplatform\search\dto\SearchResultDTO.class
+com\videoplatform\search\service\SearchService.class
+com\videoplatform\search\service\SearchStatsService.class
+com\videoplatform\search\SearchApplication.class
+com\videoplatform\search\controller\SearchController.class

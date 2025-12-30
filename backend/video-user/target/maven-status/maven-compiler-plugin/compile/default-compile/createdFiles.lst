@@ -1,0 +1,11 @@
+com\videoplatform\user\service\impl\FollowServiceImpl.class
+com\videoplatform\user\service\impl\UserServiceImpl.class
+com\videoplatform\user\mapper\UserFollowMapper.class
+com\videoplatform\user\dto\UserUpdateDTO.class
+com\videoplatform\user\controller\UserController.class
+com\videoplatform\user\controller\FollowController.class
+com\videoplatform\user\UserApplication.class
+com\videoplatform\user\mapper\UserMapper.class
+com\videoplatform\user\service\UserService.class
+com\videoplatform\user\service\FollowService.class
+com\videoplatform\user\dto\UserProfileVO.class

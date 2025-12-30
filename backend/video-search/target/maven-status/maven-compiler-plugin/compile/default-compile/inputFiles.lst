@@ -1,0 +1,13 @@
+C:\Users\admin\Desktop\end_code\backend\video-search\src\main\java\com\videoplatform\search\service\SearchService.java
+C:\Users\admin\Desktop\end_code\backend\video-search\src\main\java\com\videoplatform\search\config\ElasticsearchConfig.java
+C:\Users\admin\Desktop\end_code\backend\video-search\src\main\java\com\videoplatform\search\service\impl\SearchServiceImpl.java
+C:\Users\admin\Desktop\end_code\backend\video-search\src\main\java\com\videoplatform\search\mapper\VideoMapper.java
+C:\Users\admin\Desktop\end_code\backend\video-search\src\main\java\com\videoplatform\search\service\SearchStatsService.java
+C:\Users\admin\Desktop\end_code\backend\video-search\src\main\java\com\videoplatform\search\controller\SearchControllerAdvice.java
+C:\Users\admin\Desktop\end_code\backend\video-search\src\main\java\com\videoplatform\search\service\SearchSyncService.java
+C:\Users\admin\Desktop\end_code\backend\video-search\src\main\java\com\videoplatform\search\dto\SearchResultDTO.java
+C:\Users\admin\Desktop\end_code\backend\video-search\src\main\java\com\videoplatform\search\config\SearchInitConfig.java
+C:\Users\admin\Desktop\end_code\backend\video-search\src\main\java\com\videoplatform\search\SearchApplication.java
+C:\Users\admin\Desktop\end_code\backend\video-search\src\main\java\com\videoplatform\search\controller\SearchController.java
+C:\Users\admin\Desktop\end_code\backend\video-search\src\main\java\com\videoplatform\search\service\ElasticsearchSearchService.java
+C:\Users\admin\Desktop\end_code\backend\video-search\src\main\java\com\videoplatform\search\mapper\UserMapper.java

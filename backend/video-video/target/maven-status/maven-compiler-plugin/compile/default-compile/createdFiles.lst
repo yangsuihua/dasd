@@ -1,0 +1,11 @@
+com\videoplatform\video\VideoApplication.class
+com\videoplatform\video\mapper\UserMapper.class
+com\videoplatform\video\dto\VideoPublishDTO.class
+com\videoplatform\video\mapper\VideoMapper.class
+com\videoplatform\video\service\VideoService.class
+com\videoplatform\video\service\impl\VideoServiceImpl.class
+com\videoplatform\video\mapper\VideoTagMapper.class
+com\videoplatform\video\mapper\VideoTagRelationMapper.class
+com\videoplatform\video\controller\VideoController.class
+com\videoplatform\video\dto\VideoDTO.class
+com\videoplatform\video\mapper\VideoCategoryMapper.class
